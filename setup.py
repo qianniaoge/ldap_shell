@@ -18,7 +18,7 @@ setup(
         'ldap3==2.9.1',
         'ldapdomaindump==0.9.3',
         'pyasn1==0.4.8',
-        'pycryptodomex==3.10.1',
+        'pycryptodomex==3.19.1',
         'dsinternals==1.2.4'
     ],
     packages=find_packages(),
